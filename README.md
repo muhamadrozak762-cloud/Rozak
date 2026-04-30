@@ -1,2 +1,2 @@
 # Rozak
-This repository contains projects and experiments developed during my study in Mechatronics Engineering at Universitas Tidar. It focuses on robotics, automation systems, embedded programming, and innovative engineering solutions.
+This repository contains a DC motor calculation application developed in C++. It is designed to compute key electrical and mechanical parameters such as current, voltage, power, efficiency, torque, speed, and motor lifetime. The system is modularized into multiple header files to ensure scalability, readability, and structured development.
